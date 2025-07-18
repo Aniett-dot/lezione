@@ -15,7 +15,7 @@ function App() {
       <ProductProvider>
         <CartProvider>
           <MyNavbar />
-          <h1>Amazing! E-commerce 🛍️</h1>
+          <h1>Amazing!! E-commerce 🛍️</h1>
 
           <Routes>
             <Route path="/" element={<ProductList />} />
